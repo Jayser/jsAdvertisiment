@@ -5,8 +5,8 @@
 		
 		var domReady = function(fun) {
 			setTimeout(function go(){
-				 d.readyState === "complete" ? fun() : setTimeout(go, 5);
-			},1);
+				 d.readyState === "complete" ? fun() : setTimeout(go, 100);
+			},100);
 		};
 		var Creator = function() {
 			this.el = null;
@@ -71,10 +71,8 @@
 				}).view(),
 				ie9 = '[if gte IE 9]><style type="text/css">#vcene-advertisiment a{filter: none;}</style><![endif]';
 			head.append(link).append((new Creator).createComent(ie9));
-		});
 
 		// Append root el to html
-		domReady(function(){
 			var root = (new Creator).getId(options.append);
 				root.addStyle(dataAdver[0]['styleScale'], true);
 				environment = (new Creator).createEl('img').addAttr({
@@ -82,10 +80,8 @@
 					'alt':''
 				});
 			root.append(environment.view());
-		});
 
 		// get & add labels to DOM
-		domReady(function(){
 
 			var container = (new Creator).createEl('div');
 
@@ -104,7 +100,7 @@
 
 				var labels = dataAdver[i]['labels'];
 
-				for(var j = 0, ln = labels.length; j < ln; j +=1){
+				for(var j = 0, ln2 = labels.length; j < ln2; j +=1){
 					var label = (new Creator).createEl('span');
 
 					label.addStyle(labels[j]['styleScale'], true)

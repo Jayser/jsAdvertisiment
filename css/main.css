@@ -1,6 +1,7 @@
 #vcene-advertisiment{
 	position: relative;
 	overflow:hidden;
+	line-height: 100%;
 }
 	#vcene-advertisiment img{
 		position:absolute;
@@ -11,7 +12,7 @@
 
 	#vcene-advertisiment a{
 		display: block;
-		position: absolute;		
+		position: absolute;
 		text-decoration: none;
 		opacity:0;
 
