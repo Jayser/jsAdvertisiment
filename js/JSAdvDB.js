@@ -4,8 +4,8 @@ var dataAdver = [
 			"width"               : "990",
 			"height"			  : "567"
 		},
-		"src"                	  : "img/kitchen_room_01.jpg",
-		"cssUrl"            	  : "css/main.css"
+		"src"                	  : "http://blog.vcene.ua/wp-content/uploads/2014/02/kitchen_room_01.jpg",
+		"cssUrl"            	  : "http://blog.vcene.ua/wp-content/uploads/2014/02/main.css"
 	},
 	{
 		"styleScale":{
@@ -56,9 +56,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/braun-mr-570-patis-p/"
+			"href"                : "http://www.vcene.ua/braun-mr-570-patis-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/blender.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/blender.png"
 	},
 	{
 		"styleScale":{
@@ -109,9 +110,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/polaris-pmc-0517ad-p/"
+			"href"                : "http://www.vcene.ua/polaris-pmc-0517ad-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/multivarka.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/multivarka.png"
 	},
 	{
 		"styleScale":{
@@ -162,9 +164,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/scarlett-sc-1705-p/"
+			"href"                : "http://www.vcene.ua/scarlett-sc-1705-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_30.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_30.png"
 	},
 	{
 		"styleScale":{
@@ -215,9 +218,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/ventolux-parma-60-p/"
+			"href"                : "http://www.vcene.ua/ventolux-parma-60-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_02.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_02.png"
 	},
 	{
 		"styleScale":{
@@ -268,9 +272,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/atlant-xm-6025-100-p/"
+			"href"                : "http://www.vcene.ua/atlant-xm-6025-100-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_05.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_05.png"
 	},
 	{
 		"styleScale":{
@@ -321,9 +326,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/search/bytovaya-tehnika-c/?q=весы+Orion"
+			"href"                : "http://www.vcene.ua/search/bytovaya-tehnika-c/?q=весы+Orion",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_44.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_44.png"
 	},
 	{
 		"styleScale":{
@@ -374,9 +380,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/search/posudomoechnye-mashiny-c/?q=Delfa+DDW-3201+(WQP6-3201)"
+			"href"                : "http://www.vcene.ua/search/posudomoechnye-mashiny-c/?q=Delfa+DDW-3201+(WQP6-3201)",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_47.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_47.png"
 	},
 	{
 		"styleScale":{
@@ -427,9 +434,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/philips-hd2586-p/"
+			"href"                : "http://www.vcene.ua/philips-hd2586-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_19.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_19.png"
 	},
 	{
 		"styleScale":{
@@ -480,9 +488,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/zelmer-98780-lime-p/"
+			"href"                : "http://www.vcene.ua/zelmer-98780-lime-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_24.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_24.png"
 	},
 	{
 		"styleScale":{
@@ -533,9 +542,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/search/hlebopechki-c/?q=Orion+OBM-204"
+			"href"                : "http://www.vcene.ua/search/hlebopechki-c/?q=Orion+OBM-204",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_33.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_33.png"
 	},
 	{
 		"styleScale":{
@@ -586,9 +596,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/saturn-st-cm1033-p/"
+			"href"                : "http://www.vcene.ua/saturn-st-cm1033-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_36.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_36.png"
 	},
 	{
 		"styleScale":{
@@ -639,9 +650,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/zelmer-ck-1004-p/"
+			"href"                : "http://www.vcene.ua/zelmer-ck-1004-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_10.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_10.png"
 	},
 	{
 		"styleScale":{
@@ -692,9 +704,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/zelmer-476-p/"
+			"href"                : "http://www.vcene.ua/zelmer-476-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_07.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_07.png"
 	},
 	{
 		"styleScale":{
@@ -745,9 +758,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/orion-or-ym02-p/"
+			"href"                : "http://www.vcene.ua/orion-or-ym02-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_27.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_27.png"
 	},
 	{
 		"styleScale":{
@@ -798,9 +812,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/vitek-vt-1513-p/"
+			"href"                : "http://www.vcene.ua/vitek-vt-1513-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_25.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_25.png"
 	},
 	{
 		"styleScale":{
@@ -851,9 +866,10 @@ var dataAdver = [
 			}
 		}],
 		"attr":{
-			"href"                : "http://www.vcene.ua/gorenje-g-51100-ax-p/"
+			"href"                : "http://www.vcene.ua/gorenje-g-51100-ax-p/",
+			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_13.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_13.png"
 	},
 	{
 		"styleScale":{
@@ -907,6 +923,6 @@ var dataAdver = [
 			"href"                : "http://www.vcene.ua/braun-multigourmet-fs-20-p/",
 			"target"			  : "_blank"
 		},
-		"imgUrl"                  : "img/item_04.png"
+		"imgUrl"                  : "http://blog.vcene.ua/wp-content/uploads/2014/02/item_04.png"
 	}
 ];
